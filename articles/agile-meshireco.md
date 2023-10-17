@@ -41,7 +41,13 @@ https://meshireco.netlify.app/
 - [アジャイル開発とは](https://monstar-lab.com/dx/solution/about-agile_methods/)
 - [スクラムとは](https://hnavi.co.jp/knowledge/blog/scrum/)
 
-## リポジトリ
+## 開発環境とリポジトリ
+主な開発環境は以下の通りです
+- メイン言語 : TypeScript
+- ライブラリ : React
+- ビルドツール : Vite
+- VCS : Git/GitHub
+
 ソースコードをGitHub上で公開しています。
 https://github.com/enpitut2022/a-meshireco
 
