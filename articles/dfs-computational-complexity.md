@@ -3,7 +3,7 @@ title: "競プロerの皆さん、DFSはオーダーいくつですか？"
 emoji: "⏱️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["競技プログラミング", "atcoder", "アルゴリズム"]
-published: false
+published: true
 ---
 
 # DFSの計算量は$O(n^2)$?
