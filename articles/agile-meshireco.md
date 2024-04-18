@@ -41,6 +41,14 @@ https://meshireco.netlify.app/
 - [アジャイル開発とは](https://monstar-lab.com/dx/solution/about-agile_methods/)
 - [スクラムとは](https://hnavi.co.jp/knowledge/blog/scrum/)
 
+## チーム構成
+
+- PM x 1 ← 自分はPMを担当しました🙋
+- スクラムマネージャ(SM) x 1
+- エンジニア x 3
+
+※ PMとSMもエンジニアと全く同様に開発も担当します。
+
 ## 開発環境とリポジトリ
 主な開発環境は以下の通りです
 - メイン言語 : TypeScript
